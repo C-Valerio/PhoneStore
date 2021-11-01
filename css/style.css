@@ -89,7 +89,7 @@ html, body {
 	padding: 0 7px;
 }
 .navigation-list > li a:hover{
-	color:rgb(231,76,60)
+	color:rgb(231, 133, 20)
 }
 /* ================================Social icons====================================*/
 .list-social-icons > li{
@@ -111,10 +111,10 @@ html, body {
 }
 /* ================================Styles Index====================================*/
 .font-content-index{
-	background-image: url(../assets/img/phone-font-index.jpg);
+	background-image: url(..//images/pexels-skitterphoto-633850.jpg);
 }
 .OS-phones{
-	background-color: rgba(231, 76, 60,0.9);
+	background-color: rgb(156, 76, 0);
 	color: #000;
 	width: 100%;
 }
@@ -153,7 +153,7 @@ html, body {
 }
 /* ================================Styles news====================================*/
 .font-content-news{
-	background-image: url(../assets/img/phone-font-news.jpg);
+	background-image: url(../images/pexels-skitterphoto-633850.jpg);
 }
 .jumbotron{
 	background-color: rgba(0,3,0,.4);
@@ -168,7 +168,7 @@ html, body {
 }
 /* ================================Styles services====================================*/
 .font-content-services{
-	background-image: url(../assets/img/phone-font-news.jpg);
+	background-image: url(../images/pexels-chevanon-photography-1108101.jpg);
 }
 .all-services{
 	background-color: rgba(236, 240, 241,0.9);
@@ -256,7 +256,7 @@ html, body {
 }
 /* ================================Styles contact====================================*/
 .font-content-contact{
-	background-image: url(../assets/img/phone-font-index.jpg);
+	background-image: url(../images/pexels-skitterphoto-633850.jpg);
 }
 .contact-form-info{
 	background-color: rgba(0, 3, 0, 0.8);
